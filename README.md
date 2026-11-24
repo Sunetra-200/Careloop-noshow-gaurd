@@ -1,6 +1,6 @@
 # CareLoop Clinics — No-Show Guard
 
-**GitHub Repository:** `(https://github.com/Sunetra-200/Careloop-noshow-gaurd)`
+**GitHub Repository:** `https://github.com/Sunetra-200/Careloop-noshow-gaurd`
 
 ## 4-Line Summary
 1. **Part 1 (Data Foundations):** Cleaned 1,020 raw bookings down to 990 valid appointments (218 no-shows, **22.0%**) and 8 clinics, imputing 17 missing/invalid ages (median 48) and 20 missing distances (median 8.25 km).
